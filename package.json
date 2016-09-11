@@ -1,0 +1,14 @@
+{
+  "name": "relay-sdk",
+  "version": "0.0.1",
+  "description": "SDK for Relay's delivery API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Keesan <keesan@gmail.com>",
+  "license": "ASL",
+  "dependencies": {
+    "restling": "^0.9.1"
+  }
+}
